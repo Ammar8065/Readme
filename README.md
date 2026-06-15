@@ -315,37 +315,6 @@ Predicts Lahore's Air Quality Index (2019–2023) using Linear Regression, Rando
 
 ---
 
-<!-- ====================================================================== -->
-<!--                        GITHUB ANALYTICS SECTION                       -->
-<!-- ====================================================================== -->
-
-## 📊 &nbsp; GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ammar8065&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9&icon_color=8B5CF6" />
-<img height="180em" src="https://github-readme-streak-stats.demolab.com/?user=Ammar8065&hide_border=true&background=0D1117&stroke=8B5CF6&ring=A855F7&fire=A855F7&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammar8065&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" />
-
-</div>
-
----
-
-<!-- ====================================================================== -->
-<!--                        GITHUB TROPHIES SECTION                        -->
-<!-- ====================================================================== -->
-
-## 🏅 &nbsp; GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ammar8065&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
-
-</div>
-
 ---
 
 <!-- ====================================================================== -->
@@ -368,11 +337,15 @@ Predicts Lahore's Air Quality Index (2019–2023) using Linear Regression, Rando
 
 ## 🐍 &nbsp; Contribution Snake
 
-<!-- Requires the Platane/snk GitHub Action (setup instructions provided) -->
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Ammar8065/Ammar8065/output/github-contribution-grid-snake-dark.svg" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ammar8065/Ammar8065/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ammar8065/Ammar8065/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ammar8065/Ammar8065/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+> ⚙️ _Snake animation activates after the GitHub Action runs once — see setup instructions below._
 
 </div>
 
