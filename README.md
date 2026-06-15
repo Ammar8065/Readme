@@ -345,7 +345,6 @@ Predicts Lahore's Air Quality Index (2019–2023) using Linear Regression, Rando
   <img alt="github-snake" src="https://raw.githubusercontent.com/Ammar8065/Ammar8065/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
-> ⚙️ _Snake animation activates after the GitHub Action runs once — see setup instructions below._
 
 </div>
 
